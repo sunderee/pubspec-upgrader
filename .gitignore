@@ -1,3 +1,6 @@
 # IDEs
 .idea
 .vscode
+
+# Dependency checksums
+go.sum
